@@ -83,5 +83,6 @@ python -m http.server 8000
 ```
 
 Then open:
-
+```bash
 http://localhost:8000
+```
