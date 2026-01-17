@@ -14,7 +14,9 @@ A single-file, interactive particle visualization built with **Three.js**, **Med
 
 ## Preview
 
-![Preview](assets/preview.gif)
+![DNA Preview](assets/dna.gif)
+![Heart Preview](assets/heart.gif)
+![Saturn Preview](assets/saturn.gif)
 
 
 Can also view a live preview by clicking the link here: [Click Here](https://stephen-costa20.github.io/ParticlePlayground/)
